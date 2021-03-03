@@ -3,7 +3,7 @@
 #include <iostream>
 
 int main() {
-    std::cout << "This code was merged using pull mirroring";
+    std::cout << "This merge request is broken";
     return 0;
 }
 
